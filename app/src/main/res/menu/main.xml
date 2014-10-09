@@ -1,0 +1,4 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:yourapp="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/menu_main"  android:title="@string/main"/> 
+    <item android:id="@+id/menu_edit"  android:title="@string/edit"/>
+</menu>

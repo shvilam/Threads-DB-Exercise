@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Months</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="months_strings">January,February,March,April,May,June,July,August,September,October,November,December</string>
+    <string name="title_activity_month_details">Month Details</string>
+    <string name="month_selected">SELECTED</string>
+    <string name="dialog_message">Hey list is ready for you</string>
+    <string name="dialog_title">Status update</string>
+    <string name="numOfDays">days in month</string>
+    <string name="month">Month</string>
+    <string name="title_activity_update">Update Month Days</string>
+    <string name="add">add</string>
+    <string name="edit">edit</string>
+    <string name="main">main</string>
+    <string name="extra_action">extra_action</string>
+    <string name="updateSuccess">Days has been update successfully .</string>
+    <string name="validation_name_length">The name length is not </string>
+    <string name="validation_name">Sorry but this is not a valid name.</string>
+    <string name="submit">submit</string>
+</resources>
